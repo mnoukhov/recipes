@@ -1,6 +1,96 @@
 # FWSY Sourdough
+## 2020/05/14
 
-## 2020/04/25
+### starter
+straight from the fridge
+9h30 feed starter
+
+### mixing
+starter ferment 8h15
+
+17h45
+401g white
+15g ww
+26g rye
+343g water
+
+30m autolyse
+
+18h15
+11g salt
+119g starter
+
+### prep
+mixed 18h30
+1st fold 19h30
+2nd fold 20h30
+3rd fold 21h30
+
+16h rise
+
+shaping 10h30 next day
+- extra flour sprinkled over
+
+4h proof
+
+baking 14h30
+- parchment paper trick
+- using inverted glass base as lid
+
+
+500 degrees
+33 m covered
+12 m uncovered
+
+### result
+Great crust, pattern
+Good oven spring
+Smaller than I'd want
+- could be issue during shaping (keep as much size as possible when shaping next time)
+- could be issue with starter from fridge but loaf was more than doubled after rising so probably not
+
+## 2020/05/10
+
+### starter
+24h after last feeding
+9h30 feed starter
+
+### mixing
+17h30 (10h15 after)
+405g white
+16g ww
+24g rye
+340g water
+
+19h20 autolyse
+11g salt
+119g starter
+
+### prep
+1st fold 19h30
+2nd fold 20h30
+3rd fold 22h00
+
+9h30 next day
+(14h after final mixing)
+- doubled in size (maybe?)
+- dough feels a bit heavy
+- heavily floured banneton
+- floured bottom of loaf
+
+parchment paper trick works great
+
+500 degrees
+30 min covered
+15 min uncovered
+### result
+good rise but stopped by the lid, need taller baking container
+
+### next time
+change lid for something else
+
+
+## 2020/05/05
 
 ### starter
 24h after last feeding
@@ -27,12 +117,11 @@
 (15h30 after mixing)
 - doubled in size (maybe?)
 - dough feels a bit heavy
-- heavily floured banneton 
+- heavily floured banneton
 - floured bottom of loaf
 
-
-
 ### result
+
 ### next time
 
 ## 2020/04/25
@@ -139,8 +228,8 @@ Good colour but could be darker
 - even hotter oven temp?
 
 Nicer pattern but not controlled
-- issues with inversion 
-- too long between inversion and baking 
+- issues with inversion
+- too long between inversion and baking
 - doesn't hold shape well enough?
 
 ### next time
