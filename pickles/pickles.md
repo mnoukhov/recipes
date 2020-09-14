@@ -1,5 +1,7 @@
 # Grandma's Pickle Recipe
 
+![in process](https://github.com/mnoukhov/notes/blob/master/pickles/process.jpg) ![done](https://github.com/mnoukhov/notes/blob/master/pickles/done.jpg)
+
 ## Ingredients
 - cucumbers
     - wash and scrub
