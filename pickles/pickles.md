@@ -19,7 +19,7 @@
     - (BA Brad) you can just crush to release allicin
 - (addition) pickling spice
     - (Michael) 1.5 tbsp / L of brine
-- (addition) red currant leaves for flavour
+- (addition) black currant leaves for flavour
 
 - brine
     - 1 litre of water
