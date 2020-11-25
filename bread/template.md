@@ -1,8 +1,8 @@
 ## starter
-9h00 feed starter
+9:00 feed starter
 
 ## mixing
-17h00 (8h after)
+17:00 first mix (7-9h after)
 | ----------- |:----|
 | white       | 402 |
 | whole       | 13  |
@@ -10,29 +10,27 @@
 | water       | 342 |
 | ----------- |:----|
 
-autolyse 30m
 
-17h30
+17:20 final mix (20-30m autolyse)
 | ----------- |:----|
 | salt        | 11  |
 | starter     | 108 |
 | ----------- |:----|
 
 ## rising
-1st fold 18h00
-2nd fold 18h30
-3rd fold 19h30
-4rd fold 20h30
+folds
+1. 17:30
+2. 18:00
+3. 18:30
+4. 19:30
 
-rise 00h00
-
-shaping 00h00
-
-proofing 00h00
+shaping 8:30 (12-15h rise)
 
 ## baking
-00h00
-degrees
- min covered
- min uncovered
+12:30 bake (3-4h proof)
+- 475 degrees
+- 30 min covered
+- 25 min uncovered
+
+## notes
 
