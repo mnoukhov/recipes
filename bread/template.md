@@ -2,16 +2,15 @@
 9:00 feed starter
 
 ## mixing
-17:00 first mix (7-9h after)
+| 17:00 | (7-9h later) |
 | ----------- |:----|
 | white       | 402 |
 | whole       | 13  |
 | rye         | 25  |
 | water       | 342 |
-| ----------- |:----|
 
 
-17:20 final mix (20-30m autolyse)
+| 17:20 | (20-30m autolyse) |
 | ----------- |:----|
 | salt        | 11  |
 | starter     | 108 |
