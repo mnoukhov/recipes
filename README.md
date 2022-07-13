@@ -1,6 +1,5 @@
-# notes
-some text notes
-
+# Recipes
+Recipes I make, usually here for ease of sharing (like [pickles](./pickles)) or for continuous record-keeping so that I can improve on the recipe (like breads such as [overnight white](./overnight-white) and [the loaf](./wordloaf))
 
 ## license
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
