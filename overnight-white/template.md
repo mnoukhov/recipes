@@ -1,34 +1,31 @@
-## starter
-9:00 feed starter
-
 ## mixing
-| 17:00 | (7-9h later) |
+| 19:00 |  |
 | ----------- |:----|
-| white       | 402 |
-| whole       | 13  |
-| rye         | 25  |
-| water       | 342 |
+| white       | 400 |
+| whole       | 50  |
+| rye         | 50  |
+| water       | 360 |
 
+20m autolyse
 
-| 17:20 | (20-30m autolyse) |
+| 19:30 finish | |
 | ----------- |:----|
 | salt        | 11  |
-| starter     | 108 |
+| yeast       |  2  |
 
 ## rising
 folds
-1. 17:30
-2. 18:00
-3. 18:30
-4. 19:30
+1.
+2.
+3.
 
-shaping 8:30 (12-15h rise)
+shaping 8:00 (12h30 rise)
 
 ## baking
-12:30 bake (3-4h proof)
+
+bake 9:15 (1h15 proof)
 - 475 degrees
-- 30 min covered
-- 25 min uncovered
+- 20 min covered
+- 15 min uncovered
 
 ## notes
-

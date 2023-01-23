@@ -1,32 +1,29 @@
-## starter
-fridge starter
-
 ## mixing
-| 22:00 |  |
+| 9:30 |  |
 | ----------- |:----|
 | white       | 400 |
 | whole       | 50  |
 | rye         | 50  |
 | water       | 360 |
 
-5m autolyse
+20m autolyse
 
-| 22:00 |  |
+| 10:00 finish | |
 | ----------- |:----|
 | salt        | 11  |
-| starter     | 30  |
+| yeast       |  2  |
 
 ## rising
 folds
-1. 22:15
-1. 22:45
-2. 23:15
+1. 10:10
+1. 10:45
+2. 11:30
 
-shaping 8:00 (10h rise)
+shaping 15:00 (5h rise)
 
 ## baking
 
-bake 10:30 (2h30 proof)
+bake 16:15 (1h15 proof)
 - 475 degrees
 - 20 min covered
 - 15 min uncovered
