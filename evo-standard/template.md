@@ -15,11 +15,14 @@
 folds
 1. 10m
 2. 50m
+3. if overnight proof
 
 **13:30 shaping** 
 - 3h30 rise
 
 1h proof
+or 12h overnight proof
+
 
 **14:30 bake**
 - 425 degrees
