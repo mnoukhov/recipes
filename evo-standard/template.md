@@ -10,6 +10,8 @@
 
 15m autolyse
 
+fold, 3min rest, fold
+
 **10:00 finish**
 
 folds
